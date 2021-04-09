@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Claper</string>
+    <string name="logo_description"> Logo Clap </string>
+    <string name="button_name"> Clap !</string>
+    <string name="more_info"> DESCRIPTION </string>
+    <string name="titleFound"> LE NOM DU FILM !</string>
+    <string name="descriptionFound"> description </string>
+    <string name="auteurFound"> auteur </string>
+    <string name="button_import"> Import </string>
+    <string name="button_historique"> Already found </string>
+    <string name="texteDescriptif"> Description et autres infos à ajouter ou modifier sous forme de composants dynamiquement depuis le Java </string>
+    <string name="descrLabel"> Description : </string>
+    <string name="acteurLabel"> Acteurs : </string>
+</resources>
